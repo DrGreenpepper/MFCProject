@@ -1,0 +1,15 @@
+﻿D:\vs\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(391,5): warning MSB8028: 中间目录(Debug\)包含从另一个项目(MFCProject.vcxproj)共享的文件。   这会导致错误的清除和重新生成行为。
+  pch.cpp
+  MFCAdd.cpp
+  MFCCreat.cpp
+  MFCDataBase.cpp
+  MFCDec.cpp
+  MFCEdit.cpp
+  MFCfundcost.cpp
+  MFCLogin.cpp
+  MFCProject.cpp
+  MFCProjectDlg.cpp
+d:\workspace\cpp\mfc\mfcproject\mfcproject\mfcprojectdlg.cpp(306): warning C4018: “>”: 有符号/无符号不匹配
+  MFCSearch.cpp
+  正在生成代码...
+  MFCProject.vcxproj -> D:\WorkSpace\CPP\MFC\MFCProject\Debug\IDI_ICON2.exe
